@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/ReactNativeNavigation/static/js/app.61883df7.chunk.js",
+    "app.js.map": "/ReactNativeNavigation/static/js/app.61883df7.chunk.js.map",
+    "runtime~app.js": "/ReactNativeNavigation/static/js/runtime~app.608c3bba.js",
+    "runtime~app.js.map": "/ReactNativeNavigation/static/js/runtime~app.608c3bba.js.map",
+    "static/js/2.77955def.chunk.js": "/ReactNativeNavigation/static/js/2.77955def.chunk.js",
+    "static/js/2.77955def.chunk.js.map": "/ReactNativeNavigation/static/js/2.77955def.chunk.js.map",
+    "favicon-16.png": "/ReactNativeNavigation/favicon-16.png",
+    "favicon-32.png": "/ReactNativeNavigation/favicon-32.png",
+    "favicon.ico": "/ReactNativeNavigation/favicon.ico",
+    "index.html": "/ReactNativeNavigation/index.html",
+    "manifest.json": "/ReactNativeNavigation/manifest.json",
+    "serve.json": "/ReactNativeNavigation/serve.json",
+    "static/js/2.77955def.chunk.js.LICENSE.txt": "/ReactNativeNavigation/static/js/2.77955def.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.608c3bba.js",
+    "static/js/2.77955def.chunk.js",
+    "static/js/app.61883df7.chunk.js"
+  ]
+}
